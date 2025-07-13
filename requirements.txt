@@ -1,0 +1,6 @@
+kafka-python
+scikit-learn
+pandas
+joblib
+sqlalchemy
+psycopg2-binary
