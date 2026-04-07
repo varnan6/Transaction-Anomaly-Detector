@@ -110,7 +110,3 @@ Transactions scoring ≥ 0.5 generate a fraud alert stored in Redis and pushed t
 | `TRANSACTIONS_PER_SECOND` | producer        | `10`          | Simulated TPS        |
 | `REDIS_HOST`              | spark, api      | `redis`       | Redis hostname       |
 | `REDIS_PORT`              | spark, api      | `6379`        | Redis port           |
-
-## License
-
-MIT
